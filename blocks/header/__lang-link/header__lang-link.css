@@ -1,0 +1,9 @@
+@import url(./_ru/header__lang-link_ru.css);
+@import url(./_en/header__lang-link_en.css);
+.header__lang-link {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}

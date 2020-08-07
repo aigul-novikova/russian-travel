@@ -1,0 +1,5 @@
+.page {
+    display: flex;
+    min-width: 425px;
+    background-color: #2A2C2F;
+}
