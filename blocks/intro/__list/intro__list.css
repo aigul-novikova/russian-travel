@@ -1,0 +1,11 @@
+@import url(./_item/intro__list_item.css);
+.intro__list {
+    margin: 32px 0 0;
+    padding-left: 0;
+    max-width: 690px;
+}
+@media screen and (max-width: 690px) {
+    .intro__list {
+        max-width: 288px;
+    }
+}

@@ -1,0 +1,11 @@
+.place__item {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: end;
+}
+@media screen and (max-width: 425px) {
+    .place__item {
+        display: none;
+    }
+}

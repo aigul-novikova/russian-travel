@@ -1,0 +1,22 @@
+.lead__images {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-top: 64px;
+    
+}
+@media screen and (max-width: 1024px) {
+    .lead__images {
+        margin-top: 56px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .lead__images {
+        margin-top: 56px;
+    }
+}
+@media screen and (max-width: 425px) {
+    .lead__images {
+        margin-top: 40px;
+    }
+}
