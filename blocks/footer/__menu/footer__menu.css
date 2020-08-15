@@ -1,0 +1,11 @@
+.footer__menu {
+
+}
+@media screen and (max-width: 720px) {
+    .footer__menu {
+        margin-bottom: 32px;
+    }
+}
+.footer__menu:last-child {
+    margin-bottom: 0;
+}

@@ -2,6 +2,7 @@
 @import url(./__item/place__item.css);
 @import url(./__link/place__link.css);
 @import url(./__text/place__text.css);
+@import url(./__paragraph/place__paragraph.css);
 @import url(./__title/place__title.css);
 @import url(./__url/place__url.css);
 .place {
@@ -28,4 +29,7 @@
         margin-top: 48px;
         grid-template-columns: 1fr;
     }
+}
+.place:first-child {
+    margin-top: 0;
 }

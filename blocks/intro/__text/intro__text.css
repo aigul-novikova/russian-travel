@@ -19,6 +19,6 @@
         font-size: 16px;
         line-height: 1.625;
         max-width: calc(100% - 32px);
-        margin: 48px auto 0 auto;
+        margin-top: 48px;
     }
 }

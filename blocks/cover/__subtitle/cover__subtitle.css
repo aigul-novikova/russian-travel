@@ -23,5 +23,6 @@
             margin-top: 16px;
             font-size: 14px;
             line-height: 1.14;
+            width: calc(100% - 32px);
         }
     }
